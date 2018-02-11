@@ -27,7 +27,7 @@
   to { transform: rotate(360deg); }
 }
 
-.App--data {
+.App-data {
   margin: auto;
   padding: 1em;
   background-color: #EEE;

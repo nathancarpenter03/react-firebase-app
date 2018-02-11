@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @nathancarpenter03
- Sign out
- Watch 3
-  Star 11  Fork 41 stevekinney/react-firebase-first-flight
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-Branch: master Find file Copy pathreact-firebase-first-flight/src/index.css
-caa31bc  on Mar 3, 2017
-@stevekinney stevekinney Pull in .eslintrc and index.css
-1 contributor
-RawBlameHistory     
-125 lines (102 sloc)  2.82 KB
 html {
   box-sizing: border-box;
 }
